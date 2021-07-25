@@ -1,3 +1,23 @@
+# Slack Clone #
+
+The slack clone was developed by me in a 6 hours for me to test my skills
+
+## Features ##
+- Adding channels
+- Sending messages
+- Google Auth
+
+## Technologies Used ##
+- React
+- Firebase
+- Styled Components
+- Redux
+
+## Want to play with it ##
+[Slack Clone](https://slack-clone-abec5.web.app/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
